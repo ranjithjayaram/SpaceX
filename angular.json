@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "spacexlaunch"
+  "defaultProject": "spacexlaunch",
+  "cli": {
+    "analytics": false
+  }
 }
